@@ -1,3 +1,5 @@
+👋🏽 Hi, my name is Deyler Alvarez Fernández.
+
 🎓 I am a self-taught Web Developer good for team work, analyst and solver of problems applying assertive communication with strong technical knowledge.
 
 💻With passion for learn software development especially on the Data Structures and Algorithms, Coding languages, Object-Oriented Programming, Source control, Databases, Cloud Computing, Machine Learning, Artificial Intelligence, Debugging and Testing.
@@ -28,7 +30,9 @@
 
 📈Besides software development, I am fascinated by Economy and in my free time I spend my time researching topics of interest and invest in stocks and cryptocurrency.
 
-📧: deylerafernandez@gmail.com
+👀 Look at my portfolio:  https://deyleraf.github.io/.
+
+📫 How to reach me: "deylerafernandez@gmail.com".
 
 <!---
 DeylerAF/DeylerAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
