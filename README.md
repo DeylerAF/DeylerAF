@@ -12,19 +12,19 @@
 
 🧮Currently learning: Full-Stack Software Engineer.
 
-🦾Other skills.
--Scrum
--Agile Methodologies
--Active learning
--Creative
--Time management
--Leadership
--Reliability
--Organizational and planning skills
--Teamwork
--Analyst
--Positive attitude
--Work under pressure
+🦾Other skills:
+	• Scrum
+	• Agile Methodologies
+	• Active learning
+	• Creative
+	• Time management
+	• Leadership
+	• Reliability
+	• Organizational and planning skills
+	• Teamwork
+	• Analyst
+	• Positive attitude
+	• Work under pressure
 
 🧑‍💻As for my future, I hope to one day work as a Full-Stack Software Engineer working with a diverse team in a company with good environment and improving my skills.
 
