@@ -1,5 +1,3 @@
-👋🏽 Hi, my name is Deyler.
-
 🎓 I am a self-taught Web Developer good for team work, analyst and solver of problems applying assertive communication with strong technical knowledge.
 
 💻With passion for learn software development especially on the Data Structures and Algorithms, Coding languages, Object-Oriented Programming, Source control, Databases, Cloud Computing, Machine Learning, Artificial Intelligence, Debugging and Testing.
