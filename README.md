@@ -32,7 +32,7 @@
 
 👀 Look at my portfolio:  https://deyleraf.com/
 
-😺Look at my portfolio:  https://www.linkedin.com/in/deyleraf/
+😺Look at my LinkedIn:  https://www.linkedin.com/in/deyleraf/
 
 📫 How to reach me: "deylerafernandez@gmail.com".
 
