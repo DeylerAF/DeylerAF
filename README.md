@@ -30,7 +30,7 @@
 
 📈Besides software development, I am fascinated by Economy and in my free time I spend my time researching topics of interest and invest in stocks and cryptocurrency.
 
-👀 Look at my portfolio:  https://deyleraf.github.io/.
+👀 Look at my portfolio:  https://deyleraf.com/
 
 📫 How to reach me: "deylerafernandez@gmail.com".
 
