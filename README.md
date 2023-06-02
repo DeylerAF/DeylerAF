@@ -6,7 +6,7 @@
 
 💼 I have had experience with customer service, I have worked as a technical IT support and I have collaborated with software solutions and responsive pages creation.
 
-📑Strong knowledge in: HTML, CSS, JavaScript(Node, React, Vue), PHP(WordPress, Laravel), Git. 
+📑Strong knowledge in: HTML, CSS, JavaScript(Node, React, Vue), PHP(WordPress, Laravel), Git, Docker. 
 
 📑Basic knowledge in: C, C++, C#, Java, Python, SQL.
 
