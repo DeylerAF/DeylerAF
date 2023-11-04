@@ -1,40 +1,26 @@
-👋🏽 Hi, my name is Deyler Alvarez Fernández.
+Hi, my name is Deyler Alvarez Fernández.
 
-🎓 I am a self-taught Web Developer good for team work, analyst and solver of problems applying assertive communication with strong technical knowledge.
+Proficient Full-Stack web developer with a strong foundation in HTML, CSS, JavaScript, PHP, and Python, with over 3 years of hands-on experience in web development using CMS, frameworks and libraries, design patterns, and database management. My passion lies in innovation, staying at the forefront of industry trends, and consistently delivering successful projects.
 
-💻With passion for learn software development especially on the Data Structures and Algorithms, Coding languages, Object-Oriented Programming, Source control, Databases, Cloud Computing, Machine Learning, Artificial Intelligence, Debugging and Testing.
+I am actively seeking opportunities to contribute my expertise to web development projects and thrive in a dynamic team. Let's connect and explore new possibilities together.
 
-💼 I have had experience with customer service, I have worked as a technical IT support and I have collaborated with software solutions and responsive pages creation.
+I specialize in:
 
-📑Strong knowledge in: HTML, CSS, JavaScript(Node, React, Vue), PHP(WordPress, Laravel), Git, Docker. 
+• Front-End Development: Experienced in crafting pixel-perfect front-end solutions that precisely match UX designs, utilizing modern front-end languages and frameworks.
 
-📑Basic knowledge in: C, C++, C#, Java, Python, SQL.
+• Responsive Design: Experienced in creating web applications with responsive design principles, ensuring a seamless user experience across a wide range of devices and screen sizes.
 
-🧮Currently learning: Full-Stack Software Engineer.
+• UI/UX Design: Proficient in UI/UX design, with a focus on crafting visually appealing and intuitive user interfaces that enhance the overall user experience, resulting in engaging and user-friendly web applications.
 
-🦾Other skills:
-	• Scrum
-	• Agile Methodologies
-	• Active learning
-	• Creative
-	• Time management
-	• Leadership
-	• Reliability
-	• Organizational and planning skills
-	• Teamwork
-	• Analyst
-	• Positive attitude
-	• Work under pressure
+• Back-End Development: Proficient in designing and developing robust and efficient back-end systems that power web applications and creating integrated APIs, leveraging the latest back-end languages and frameworks.
 
-🧑‍💻As for my future, I hope to one day work as a Full-Stack Software Engineer working with a diverse team in a company with good environment and improving my skills.
+• Server Management and Deployment: Experienced in efficient server management and deployment, ensuring web applications are hosted and scaled seamlessly, whether it's on traditional servers or cloud platforms.
 
-📈Besides software development, I am fascinated by Economy and in my free time I spend my time researching topics of interest and invest in stocks and cryptocurrency.
+• Performance Optimization and SEO: Proficient in performance optimization techniques, enhancing web applications for faster load times and improved user experiences, while also implementing SEO best practices to boost search engine visibility and rankings.
 
-👀 Look at my portfolio:  https://deyleraf.com/
+Look at my portfolio:  https://deyleraf.com/
 
-😺Look at my LinkedIn:  https://www.linkedin.com/in/deyleraf/
-
-📫 How to reach me: "deylerafernandez@gmail.com".
+Look at my LinkedIn:  https://www.linkedin.com/in/deyleraf/
 
 <!---
 DeylerAF/DeylerAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
