@@ -18,7 +18,7 @@ I specialize in:
 
 • Performance Optimization and SEO: Proficient in performance optimization techniques, enhancing web applications for faster load times and improved user experiences, while also implementing SEO best practices to boost search engine visibility and rankings.
 
-Look at my portfolio:  https://deyleraf.com/
+Look at my portfolio:  https://deyleraf.dev/
 
 Look at my LinkedIn:  https://www.linkedin.com/in/deyleraf/
 
